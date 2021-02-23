@@ -1,0 +1,10 @@
+.DS_Store
+raw_data/
+.Rhistory
+.RData
+.vscode/
+.Rproj.user
+inputs/*
+exhibits/*
+!inputs/README.md
+output/

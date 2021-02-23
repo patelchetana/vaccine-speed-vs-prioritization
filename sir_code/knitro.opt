@@ -1,0 +1,3 @@
+# feastol 1e-8
+# xtol 1e-15
+opttol 1.0e-7
